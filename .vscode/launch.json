@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "pwa-node",
+      "request": "launch",
+      "name": "Launch Program",
+      "program": "start",
+      "console": "integratedTerminal",
+      "runtimeExecutable": "/home/kato/.nvm/versions/node/v20.15.1/bin/node"
+    }
+  ]
+}
